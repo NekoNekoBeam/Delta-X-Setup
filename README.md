@@ -38,7 +38,7 @@ Even if you didnt teleported, dont touch anything. The script loades from 1 to 1
 After the waiting, it will load you the menu to use the dupe. (I got the script from another guy, but it works just fine, tried on myself)
 
 Enjoy using your script!
-
+(and im sorry that i changed the text several times, i had alot of mistakes in words because im not so english, im Russian. Tried my best to make that tutorial understandable to read)
 
 
 
