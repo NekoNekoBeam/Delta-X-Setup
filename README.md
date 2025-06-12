@@ -1,6 +1,6 @@
 🔥Grow-A-Garden-Script-Dupe🔥
 
-You want to get the script that can dupe you some pets? Dont worry, because i will help you here
+You want to get the script that can dupe you some pets? Dont worry, because i will help you here.
 The script that i will leave will give you any pet you want, so i'll guide you to get script working.
 (you will already need to have pets in your inventory for it to work)
 
@@ -9,13 +9,13 @@ Firstly, download Delta X (Delta Executer). You can install it on this site: htt
 (you also can use any other executers, but i used it with delta)
 Put the link in the search tab on any browser, it works anywhere (or just click on it)
 Choose your device. It can be Android, IOS, Windows
-Use the tutorial to download it (for your device)
+Use the tutorial to download it (for your device).
 
 (in this part, will be a tutroial for a Android device)
-After you downloaded the APK file, you need to delete your roblox. Dont worry, it will load back
+After you downloaded the APK file, you need to delete your normal roblox, if you dont delete the normal roblox, it will not load properly and it will not work.
 Open the APK file, and the installation of modified roblox will be downloaded
 Open modified roblox, and use your account to login back. (dont worry, no need to use an alt, because it will not do anything bad to the account)
-Join any server in any game. The executor will load automatically
+Join any server in any game. The menu of the executor will appear on the screen automatically.
 It will say that you need to get the key for it to work. Press "Receive Key". It will put a link on your clipboard
 After you got the link, go to Telegram app, and in search, type "ArxBypass". its a bot for retrieving the key
 press /start in the chat with the bot. Then, use the clipboard to put the link that you got in the chat. You will need to wait (1 sec - 1 min)
