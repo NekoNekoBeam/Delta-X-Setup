@@ -15,7 +15,7 @@ Use the tutorial to download it (for your device)
 After you downloaded the APK file, you need to delete your roblox. Dont worry, it will load back
 Open the APK file, and the installation of modified roblox will be downloaded
 Open new roblox, and use your account to login back. (dont worry, no need to use an alt, because it will not do anything bad to the account)
-Join any server in any game. The cheating programm will load and will wait for you
+Join any server in any game. The executor will load automatically
 It will say that you need to get the key for it to work. Press "Receive Key". It will put a link on your clipboard
 After you retreated the key, go to Telegram app, and in search, type "ArxBypass". its a bot for retrieving the key
 press /start in the chat with the bot. Then, use the clipboard to put the key in the chat. You will need to wait (1 sec - 1 min)
