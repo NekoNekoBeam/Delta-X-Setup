@@ -1,5 +1,3 @@
-🔥Grow-A-Garden-Script-Dupe🔥
-
 You want to get the script that can dupe you some pets? Dont worry, because i will help you here.
 The script that i will leave will give you any pet you want, so i'll guide you to get script working.
 (you will already need to have pets in your inventory for it to work)
