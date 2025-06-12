@@ -35,7 +35,7 @@ And when you have all the requirements met AND you copied the script to the clip
 You can either press on the "thank you for using delta" to put the script and press execute, OR you can press "execute clipboard".
 After you executed it, the script will start to load (it can also teleport you to other server of grow a garden, just dont touch anything).
 Even if you didnt teleported, dont touch anything. The script loades from 1 to 10 minutes, depends on what device you're using (and how good is the internet connection)
-After the waiting, it will load you the menu to use the script. (I got the script from another guy, but it works just fine, tried on myself)
+After the waiting, it will load you the menu to use the dupe. (I got the script from another guy, but it works just fine, tried on myself)
 
 Enjoy using your script!
 
