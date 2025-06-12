@@ -8,7 +8,7 @@ The script that i will leave will give you any pet you want, so i'll guide you t
 Firstly, download Delta X (Delta Executer). You can install it on this site: https://delta-executor.com/
 (you also can use any other executers, but i used it with Delta).
 Put the link in the search tab on any browser, it works anywhere (or just click on it)
-Choose your device. It can be Android, IOS, Windows
+Choose your device. It can be Android, IOS, Windows.
 Use the tutorial to download it (for your device).
 
 (in this part, i will show a tutroial for a Android device, because i tried it at android, and it worked).
