@@ -12,7 +12,7 @@ Choose your device. It can be Android, IOS, Windows.
 Use the tutorial to download it (for your device).
 
 (in this part, i will show a tutroial for a Android device, because i tried it at android, and it worked).
-After you downloaded the APK file, you need to delete your normal roblox, if you dont delete the normal roblox, it will not load properly and it will not work.
+After you downloaded the APK file, you need to delete your original roblox, if you dont delete the original roblox, it will not load properly and it will not work.
 Open the APK file, and the installation of modified roblox will be completed.
 Open modified roblox, and use your account to login back. (dont worry, no need to use an alt, because it will not do anything bad to the account).
 Join any server in any game. The menu of the executor will appear on the screen automatically.
