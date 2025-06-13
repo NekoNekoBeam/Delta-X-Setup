@@ -40,6 +40,8 @@ spawn: you press the "name of the pet", type any pet you want (it needs to be a 
 Enjoy using your script!
 (and im sorry that i changed the text several times, i had alot of mistakes in words because im not so english, im Russian. Tried my best to make that tutorial understandable to read)
 
+Also, one problem, the script is not working right now. The download for Delta X works, but the script dont works on Delta X because its recently got updated. i will change the text if i will update the script.
+
 
 
 
